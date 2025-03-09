@@ -16,5 +16,5 @@ The T5 model learns to map incorrect sentences to their correct form.
 
 **Outcome**
 
-Average BLEU Score: 0.8412
-Average ROUGE Score: 1.0000
+- Average BLEU Score: 0.8412
+- Average ROUGE Score: 1.0000
